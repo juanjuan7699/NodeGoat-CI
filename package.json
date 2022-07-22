@@ -49,7 +49,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-env": "latest",
     "grunt-if": "https://github.com/binarymist/grunt-if/tarball/master",
-    "grunt-jsbeautifier": "^0.2.12",
+    "grunt-jsbeautifier": "0.2.10",
     "grunt-mocha-test": "^0.12.7",
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^0.3.12",
